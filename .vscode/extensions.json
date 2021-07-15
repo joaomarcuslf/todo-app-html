@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "hookyqr.beautify",
+        "naumovs.color-highlight",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "vincaslt.highlight-matching-tag",
+        "ms-vsliveshare.vsliveshare",
+        "github.vscode-pull-request-github"
+    ]
+}
